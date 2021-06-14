@@ -1,3 +1,4 @@
+//ANaya Pineda Mauricio
 let screen = document.querySelector("#pantalla_id");
 let bandera_inicio=0;
 function getData(ref) {
